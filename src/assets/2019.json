@@ -1,0 +1,67 @@
+{
+
+"desc": "descripcion del evento",
+"categoria": [
+{"cat": "Institucional",
+"participantes" : [
+	{"place": 1,
+	"name": "Universidad del Azuay: Ecuador postapocaliptico",
+	"price": 4000},
+
+	{"place": 2,
+	"name": "Cooperativa Jardin Azuayo: Jugando y acolitando cooperamos",
+	"price": 3000},
+
+	{"place": 3,
+	"name": "Universidad de Cuenca: Las máquinas insaciables",
+	"price": 2000}]
+},
+
+{"cat": "Comparsas",
+"participantes" : [
+	{"place": 1,
+	"name": "Barrio San Francisco: Mi proyecto no marcha bien",
+	"price": 1500},
+
+	{"place": 2,
+	"name": "Familia Flores: El planeta de los Flores",
+	"price": 1000},
+
+	{"place": 3,
+	"name": "Familia Vanegas: La degollación de los santos inocentes y los santos delincuentes",
+	"price": 500}]
+},
+
+{"cat": "Infantil",
+"participantes" : [
+	{"place": 1,
+	"name": "C.E.I. Luis Cordero",
+	"price": 500},
+
+	{"place": 2,
+	"name": "-",
+	"price": 0},
+
+	{"place": 3,
+	"name": "-",
+	"price": 0}]
+},
+
+{"cat": "Individual",
+"participantes" : [
+	{"place": 1,
+	"name": "Victor Hugo Espinoza - Un Yoga-Dicto",
+	"price": 200},
+
+	{"place": 2,
+	"name": "Carlos Chuisaca: El país del Chu…",
+	"price": 100},
+
+	{"place": 3,
+	"name": "-",
+	"price": 0}]
+}
+
+]
+
+}

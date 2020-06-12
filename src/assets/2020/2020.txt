@@ -1,0 +1,29 @@
+{
+
+"desc": "descripcion del evento",
+"categoria": [
+{"cat": "institucional",
+"participantes" : [
+	{"place": 1,
+	"name": "Universidad de Cuenca",
+	"price": 4000},
+
+	{"place": 2,
+	"name": "Jardin Azuayo",
+	"price": 3000}]
+}
+
+{"cat": "Comparsas",
+"participantes" : [
+	{"place": 1,
+	"name": "Barrio San Francisco",
+	"price": 1500},
+
+	{"place": 2,
+	"name": "Familia Vanegas",
+	"price": 1000}]
+}
+
+]
+
+}
